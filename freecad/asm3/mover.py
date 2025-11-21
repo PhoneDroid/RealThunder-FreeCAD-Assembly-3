@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-only
+
 import math
 from collections import namedtuple
 import FreeCAD, FreeCADGui

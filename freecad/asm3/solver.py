@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-only
+
 import random, math
 from collections import namedtuple,defaultdict
 import FreeCAD, FreeCADGui

@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-only
+
 from collections import OrderedDict
 import os
 import FreeCAD, FreeCADGui

@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-only
+
 from collections import namedtuple
 import FreeCAD, FreeCADGui, Part
 from PySide import QtCore, QtGui

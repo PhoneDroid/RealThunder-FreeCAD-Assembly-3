@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-only
+
 '''
 Collection of helper function to extract geometry properties from OCC elements
 

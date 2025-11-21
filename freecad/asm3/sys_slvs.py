@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-only
+
 try:
     from six import with_metaclass
 except ImportError:
